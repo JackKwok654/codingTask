@@ -1,0 +1,13 @@
+com\jack\codingTask\repository\StockRepository.class
+com\jack\codingTask\csv_helper\CSVProductHelper.class
+com\jack\codingTask\csv_helper\CSVStockHelper.class
+com\jack\codingTask\model\Product.class
+com\jack\codingTask\model\StockKey.class
+com\jack\codingTask\repository\ProductRepository.class
+com\jack\codingTask\service\CSVProductService.class
+com\jack\codingTask\CodingTaskApplication.class
+com\jack\codingTask\controller\ProductController.class
+com\jack\codingTask\model\Stock.class
+com\jack\codingTask\controller\StockController.class
+com\jack\codingTask\message\ResponseMessage.class
+com\jack\codingTask\service\CSVStockService.class
