@@ -18,7 +18,7 @@
   "author": "jack",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "css-loader": "^3.5.3",
     "react": "^16.5.2",
